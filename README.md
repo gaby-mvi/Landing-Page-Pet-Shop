@@ -54,7 +54,7 @@ npm run dev
 
 O projeto está disponível online via Vercel:
 
-🔗 https://petshop-landing.vercel.app
+🔗 https://landing-page-pet-shop-six.vercel.app/
 
 ---
 
