@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 Pet Shop - Página Institucional
 
-## Getting Started
+Projeto de uma landing page desenvolvida com **Next.js**, **React**, **Tailwind CSS** e **TypeScript**, com o objetivo de apresentar os serviços, depoimentos de clientes, marcas parceiras, informações de contato e redes sociais de um Pet Shop (ficticio). Com proposito de continuar evoluindo e aprendendo novas tecnologias.
 
-First, run the development server:
+---
+
+## 🖼️ Preview
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+  <img src="./public/preview-notebook.png" alt="Notebook" width="75%" />
+  <img src="./public/preview-celular.png" alt="Celular" width="20%" />
+</div>
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+---
+
+## 📸 Funcionalidades
+
+- ✅ Apresentação dos **serviços oferecidos**
+- ✅ Sessão de **depoimentos de clientes**
+- ✅ Logos das **marcas parceiras**
+- ✅ Informações de **contato**, **endereço** e **redes sociais**
+- ✅ Layout 100% **responsivo**
+- ✅ Estilização com **Tailwind CSS**
+
+---
+
+## 📦 Instalação e uso
 
 ```bash
+# Clone o repositório
+git clone https://github.com/gaby-mvi/Landing-Page-Pet-Shop.git
+
+# Acesse o diretório
+cd Landing-Page-Pet-Shop
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Deploy
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O projeto está disponível online via Vercel:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔗 https://petshop-landing.vercel.app
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📄 Licença
+Este projeto está licenciado sob os termos da MIT License.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Você pode usar, copiar, modificar e distribuir conforme desejar, com ou sem fins comerciais, desde que mantenha os créditos ao autor.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feito com 💙 por Gabriela Rosa
